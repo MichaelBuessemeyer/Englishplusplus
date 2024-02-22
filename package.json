@@ -3,6 +3,10 @@
   "displayName": "English++",
   "description": "Fix your english using deepl's api",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MichaelBuessemeyer/Englishplusplus"
+  },
   "engines": {
     "vscode": "^1.86.0"
   },
